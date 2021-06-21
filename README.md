@@ -1,4 +1,4 @@
-# CS210_SNHU
+# CS210_SNHU_Project_Three
 I have chosen to upload project 3 for CS210 at Southern New Hampshire University. This project has been
 incredibly informative, both for myself as a beginning programmer and as myself as a student.
 
